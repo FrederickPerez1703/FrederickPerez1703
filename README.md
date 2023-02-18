@@ -1,5 +1,5 @@
 
-
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FZelechos%2FPragmatic_Java&psig=AOvVaw0fixZFaw_HZMHJxBLXdl9V&ust=1676780152573000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMizyfyanv0CFQAAAAAdAAAAABAE)
 ¡Hey 👋! Soy Frederick 👨🏻‍💻
 Soy Desarrollador Java con 1 años experiencia.
 ¡Revisa mi contenido 👇!
